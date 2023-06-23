@@ -41,4 +41,5 @@ To play this game, you need to install Pygame on your local machine and clone th
 
 
 ![ezgif com-video-to-gif](https://github.com/Yousef-Albasel/SpaceInvaders-Python/assets/111648493/f7fe2e0f-89ec-4f91-a794-586674faecfa)
+![Uploading ezgif.com-video-to-gif (1).gif…]()
 
