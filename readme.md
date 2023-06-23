@@ -2,7 +2,7 @@
 ```diff
 - This Project is not Complete
 ```
-This project is an enhanced version of a Python game that aims to strengthen object-oriented programming (OOP) skills. It builds upon a Clearcode Tutorial and introduces new features like animations, explosions, extra hearts, and an additional level for increased complexity.
+This project is an enhanced version of a Python game that aims to strengthen object-oriented programming (OOP) skills. It builds upon a Clearcode Tutorial and i added new features like animations, explosions, extra hearts, and an additional level for increased complexity.
 
 The future goal of the project is to transform this basic game into a multiplayer experience, allowing players to engage with each other in real-time. Future updates will focus on adding more game features and expanding the multiplayer functionality.
 
